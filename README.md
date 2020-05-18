@@ -1,2 +1,2 @@
 # ecommerce-nodejs
-basic ecommerce with nodejs
+basic ecommerce for book with nodejs
